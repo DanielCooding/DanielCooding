@@ -43,7 +43,7 @@ When I'm not coding, I'm exploring low-level topics like binary manipulation, co
 | **Bots & Automation** | Discord.js, OAuth2 flows |
 | **Deployment** | Vercel, Railway, CI/CD |
 | **Security** | Auth systems, Binary analysis (C++) |
-| **Languages** | JavaScript, Python, C++ |
+| **Languages** | JavaScript, Java, TypeScript, Python, C++ |
 
 ---
 

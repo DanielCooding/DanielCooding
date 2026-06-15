@@ -39,9 +39,8 @@ When I'm not coding, I'm exploring low-level topics like binary manipulation, co
 | Area | Stack |
 |---|---|
 | **Web Development** | Next.js, React, Node.js, REST APIs |
-| **Database** | Supabase, PostgreSQL |
+| **Database** | Supabase, PostgreSQL, MySQL |
 | **Bots & Automation** | Discord.js, OAuth2 flows |
-| **Deployment** | Vercel, Railway, CI/CD |
 | **Security** | Auth systems, Binary analysis (C++) |
 | **Languages** | JavaScript, Java, TypeScript, Python, C++ |
 

@@ -13,6 +13,13 @@
 </p>
 
 ---
+## 🧑‍💻 About Me
+
+I'm a full-stack developer passionate about building clean, scalable web applications and automation tools. I specialize in **Next.js**, **Node.js**, and **Discord bot development**, with a strong focus on authentication systems, database architecture, and secure deployments.
+
+When I'm not coding, I'm exploring low-level topics like binary manipulation, code injection, and game client development.
+
+---
 
 ## 📊 GitHub Stats
 

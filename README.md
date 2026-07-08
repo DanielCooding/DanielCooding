@@ -13,6 +13,7 @@
 </p>
 
 ---
+
 ## 🧑‍💻 About Me
 
 I'm a full-stack developer passionate about building clean, scalable web applications and automation tools. I specialize in **Next.js**, **Node.js**, and **Discord bot development**, with a strong focus on authentication systems, database architecture, and secure deployments.
@@ -24,12 +25,12 @@ When I'm not coding, I'm exploring low-level topics like binary manipulation, co
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DanielCooding&theme=react&hide_border=true&background=0D1117&ring=01696F&fire=01696F&currStreakLabel=01696F" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielCooding&theme=react&hide_border=true&background=0D1117&ring=01696F&fire=01696F&currStreakLabel=01696F" />
 </div>
 
 ---

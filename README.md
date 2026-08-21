@@ -25,8 +25,8 @@ When I'm not coding, I'm exploring low-level topics like binary manipulation, co
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5" />
 </div>
 
 <div align="center">

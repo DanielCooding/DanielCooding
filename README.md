@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  📍 Paraíba — Brazil • 🎓 Computer Science Student @ UNIESP
+  📍 Paraíba — Brazil • 🎓 Computer Science Student
 </p>
 
 ---

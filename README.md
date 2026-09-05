@@ -20,14 +20,8 @@ Full-stack developer specialized in **Next.js**, **Node.js**, and **Discord bot 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCooding&theme=react&hide_border=true&background=0D1117&ring=01696F&fire=01696F&currStreakLabel=01696F" />
-</div>
+[![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

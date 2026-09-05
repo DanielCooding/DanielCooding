@@ -1,7 +1,7 @@
 # Daniel Souza 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=01696F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord+Bot+Developer;Automação+%26+Sistemas+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=01696F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Discord+Bot+Developer;Computer+Science+Student;Security+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">

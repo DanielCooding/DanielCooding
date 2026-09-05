@@ -1,49 +1,53 @@
 # Hi, I'm Daniel Souza 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=01696F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Discord+Bot+Developer;Computer+Science+Student;Security+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=01696F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord+Bot+Developer;Security+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </div>
 
-<br/>
-
 <p align="center">
-  📍 Cabedelo, Paraíba — Brazil &nbsp;|&nbsp;
-  🎓 Computer Science Student &nbsp;|&nbsp;
-  💡 Multimedia Technician
+  📍 Cabedelo, Paraíba — Brazil • 🎓 Computer Science Student
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a full-stack developer passionate about building clean, scalable web applications and automation tools. I specialize in **Next.js**, **Node.js**, and **Discord bot development**, with a strong focus on authentication systems, database architecture, and secure deployments.
-
-When I'm not coding, I'm exploring low-level topics like binary manipulation, code injection, and game client development.
+Full-stack developer specializing in **Next.js**, **Node.js**, and **Discord bot development**. Strong focus on authentication systems, database architecture, and secure deployments.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielCooding&theme=react&hide_border=true&background=0D1117&ring=01696F&fire=01696F&currStreakLabel=01696F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DanielCooding&theme=react&hide_border=true&background=0D1117&ring=01696F&fire=01696F&currStreakLabel=01696F" />
 </div>
 
 ---
 
-## 💼 Core Skills At a Glance
+## 💼 Core Skills
 
-| Area | Stack |
-|---|---|
-| **Web Development** | Next.js, React, Node.js, REST APIs |
-| **Database** | Supabase, PostgreSQL, MySQL |
-| **Bots & Automation** | Discord.js, OAuth2 flows |
-| **Security** | Auth systems, Binary analysis (C++) |
-| **Languages** | JavaScript, Java, TypeScript, Python, C++ |
+| Web Development | Backend | Database | Security |
+|---|---|---|---|
+| Next.js, React | Node.js, Discord.js | Supabase, PostgreSQL | Auth systems, Binary analysis |
+| TypeScript | Java, Python | MySQL | Code injection |
+| Tailwind CSS | REST APIs | - | C++ |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+</div>
 
 ---
 
@@ -56,5 +60,5 @@ When I'm not coding, I'm exploring low-level topics like binary manipulation, co
 </p>
 
 <p align="center">
-  <i>Open to freelance projects, internships, and collaborations. Feel free to reach out!</i>
+  <i>Open to collaborations and freelance projects</i>
 </p>

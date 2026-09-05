@@ -5,8 +5,7 @@
 </div>
 
 <p align="center">
-  📍  Paraíba — Brazil &nbsp;|&nbsp;
-  🎓 Computer Science Student &nbsp;|&nbsp;
+  📍 Paraíba — Brazil • 🎓 Computer Science Student • 💻 Production Systems
 </p>
 
 ---
@@ -22,12 +21,12 @@ Full-stack developer specialized in **Next.js**, **Node.js**, and **Discord bot 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCooding&theme=react&hide_border=true&background=0D1117&ring=01696F&fire=01696F&currStreakLabel=01696F" />
+  <a href="https://github.com/DanielCooding">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5&count_private=true&disable_animations=false" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/DanielCooding">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
 
 ---
@@ -36,9 +35,9 @@ Full-stack developer specialized in **Next.js**, **Node.js**, and **Discord bot 
 
 | Project | Tech Stack | Highlights |
 |---------|-----------|-----------|
-| **Goat Community** | Node.js, Discord.js, Mercado Pago, KeyAuth | Bot system with PIX payments & auto-licensing |
-| **Relatórios IA** | Next.js, TypeScript, GROQ/Llama 3, PDF | AI-powered report generation with streaming |
-| **Gestão Seminovos** | Java REST API, MySQL, JavaScript | Enterprise management system with role hierarchy |
+| **Goat Community** | Node.js, Discord.js, Mercado Pago, KeyAuth | Bot system with PIX payments & auto-licensing for digital products |
+| **AI Report Generator** | Next.js, TypeScript, GROQ/Llama 3, PDF | Intelligent report generation with streaming chat and PDF export |
+| **Used Car Dealership Management** | Java REST API, MySQL, JavaScript | Enterprise system with role-based access and financial metrics |
 
 ---
 
@@ -48,10 +47,10 @@ Full-stack developer specialized in **Next.js**, **Node.js**, and **Discord bot 
 |----------|---------|----------|----------------|
 | React, Next.js | Node.js, Express | Supabase | Vercel, Railway |
 | TypeScript | Java, Python | PostgreSQL | Discloud, Git |
-| Tailwind CSS | Discord.js v14 | MySQL | - |
+| Tailwind CSS | Discord.js v14 | MySQL | OAuth2 |
 
 **Integrations:** Mercado Pago (PIX) • KeyAuth • Shopify • OAuth2  
-**Other:** IA aplicada (GROQ, OpenAI, Gemini) • UX/UI • Figma
+**Other:** Applied AI (GROQ, OpenAI, Gemini) • UX/UI • Figma
 
 ---
 
@@ -74,8 +73,8 @@ Full-stack developer specialized in **Next.js**, **Node.js**, and **Discord bot 
 
 ## 📚 Education
 
-- **Bachelor's** in Computer Science — UNIESP *(Expected: 2029)*
-- **Técnico** in Multimedia — IFPB, Campus Cabedelo
+- **Bachelor's Degree** in Computer Science — UNIESP *(Expected: 2029)*
+- **Technical Diploma** in Multimedia — IFPB, Campus Cabedelo
 - Advanced self-taught computing knowledge
 
 ---

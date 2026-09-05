@@ -21,12 +21,12 @@ Full-stack developer specialized in **Next.js**, **Node.js**, and **Discord bot 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/DanielCooding">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5&count_private=true&disable_animations=false" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/DanielCooding">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5&langs_count=6" alt="Top Languages" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielCooding&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&icon_color=01696F&text_color=CDD9E5&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCooding&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=01696F&text_color=CDD9E5&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCooding&theme=react&hide_border=true&background=0D1117&ring=01696F&fire=01696F&currStreakLabel=01696F" />
 </div>
 
 ---

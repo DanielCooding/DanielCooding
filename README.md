@@ -5,7 +5,8 @@
 </div>
 
 <p align="center">
-  📍 Paraíba — Brazil • 🎓 Computer Science Student
+  📍  Paraíba — Brazil &nbsp;|&nbsp;
+  🎓 Computer Science Student &nbsp;|&nbsp;
 </p>
 
 ---

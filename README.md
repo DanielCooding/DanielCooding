@@ -1,18 +1,20 @@
-# Hi, I'm Daniel Souza 👋
+# Daniel Souza 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=01696F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord+Bot+Developer;Security+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=01696F&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Discord+Bot+Developer;Automação+%26+Sistemas+Web" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  📍 Cabedelo, Paraíba — Brazil • 🎓 Computer Science Student
+  📍 Paraíba — Brazil • 🎓 Computer Science Student @ UNIESP
 </p>
 
 ---
 
 ## About Me
 
-Full-stack developer specializing in **Next.js**, **Node.js**, and **Discord bot development**. Strong focus on authentication systems, database architecture, and secure deployments.
+Full-stack developer specialized in **Next.js**, **Node.js**, and **Discord bot development**. I build scalable web applications, automation tools, and production systems with strong focus on authentication, database architecture, and secure deployments.
+
+**Currently:** Building digital product sales systems, SaaS platforms with OAuth2, and enterprise management tools.
 
 ---
 
@@ -25,13 +27,26 @@ Full-stack developer specializing in **Next.js**, **Node.js**, and **Discord bot
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights |
+|---------|-----------|-----------|
+| **Goat Community** | Node.js, Discord.js, Mercado Pago, KeyAuth | Bot system with PIX payments & auto-licensing |
+| **Relatórios IA** | Next.js, TypeScript, GROQ/Llama 3, PDF | AI-powered report generation with streaming |
+| **Gestão Seminovos** | Java REST API, MySQL, JavaScript | Enterprise management system with role hierarchy |
+
+---
+
 ## 💼 Core Skills
 
-| Web Development | Backend | Database | Security |
-|---|---|---|---|
-| Next.js, React | Node.js, Discord.js | Supabase, PostgreSQL | Auth systems, Binary analysis |
-| TypeScript | Java, Python | MySQL | Code injection |
-| Tailwind CSS | REST APIs | - | C++ |
+| Frontend | Backend | Database | Infra & Deploy |
+|----------|---------|----------|----------------|
+| React, Next.js | Node.js, Express | Supabase | Vercel, Railway |
+| TypeScript | Java, Python | PostgreSQL | Discloud, Git |
+| Tailwind CSS | Discord.js v14 | MySQL | - |
+
+**Integrations:** Mercado Pago (PIX) • KeyAuth • Shopify • OAuth2  
+**Other:** IA aplicada (GROQ, OpenAI, Gemini) • UX/UI • Figma
 
 ---
 
@@ -43,11 +58,20 @@ Full-stack developer specializing in **Next.js**, **Node.js**, and **Discord bot
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 </div>
+
+---
+
+## 📚 Education
+
+- **Bachelor's** in Computer Science — UNIESP *(Expected: 2029)*
+- **Técnico** in Multimedia — IFPB, Campus Cabedelo
+- Advanced self-taught computing knowledge
 
 ---
 
@@ -60,5 +84,5 @@ Full-stack developer specializing in **Next.js**, **Node.js**, and **Discord bot
 </p>
 
 <p align="center">
-  <i>Open to collaborations and freelance projects</i>
+  <i>Open to collaborations, freelance projects, and internships</i>
 </p>
